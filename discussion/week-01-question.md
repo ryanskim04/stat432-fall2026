@@ -4,4 +4,4 @@ title: "Week 1 Discussion Question"
 author: "Ryans Kim (ryanskim04)"
 ---
 
-What is the main goal of the first week in STAT 432?
+What's the general benefit to using github and submitting through terminal commands as opposed to simpler file uploads onto something github or even canvas?
