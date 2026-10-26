@@ -17,6 +17,8 @@
 /homework/week-[0-9][0-9]/*
 !/homework/week-[0-9][0-9]/homework-[0-9][0-9].pdf
 !/homework/week-[0-9][0-9]/homework-[0-9][0-9].html
+!/homework/week-09/svm-analysis/
+!/homework/week-09/svm-analysis/SKILL.md
 
 # Keep only final-project files.
 /project/*
